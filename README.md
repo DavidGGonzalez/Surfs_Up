@@ -35,6 +35,6 @@ Client needs information about temperature trends before opening the surf shop. 
 
 ![Store Front](/Resources/StoreFront.png)
 
-After comparing temperatures statistics for the months of June and Decemeber, we found that the area would be perfect to stablish the business, high and low temperatures differences would not limit them to have the store open thorught the entire year selling ice creams and shakes and surfing.
+After comparing temperatures statistics for the months of June and Decemeber, we found that the area would be perfect to stablish the business, high and low temperatures differences would not limit them to have the store open thorught the entire year selling ice creams and shakes and surfing as the high temperature for both month is higher than or equal to 83 degress.
 
 
